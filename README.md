@@ -14,3 +14,4 @@
     
 In last command operation in square braces are optional. All images in dataset folder will be pretrained by machine.
 
+## main and requirement file will be updated soon.
