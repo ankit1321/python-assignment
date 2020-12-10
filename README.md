@@ -4,7 +4,7 @@
     
 ## Getting Started
 
-#### Pre-requisite : Python 3.7.6
+#### Pre-requisite : Python 3.7.1
 
     $ pip install --upgrade pip
     
