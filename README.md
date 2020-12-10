@@ -14,4 +14,24 @@
     
 In last command operation in square braces are optional. All images in dataset folder will be pretrained by machine.
 
-## Test video , Test results and docker file will be updated soon.
+## Docker
+
+### Build dockercontainer
+
+    $ docker build -t accountname/projectname .
+    
+By running above command you can build docker image (Dot in above line is compulsory. It represents current directory).
+
+### Direct run docker image
+
+    $ docker run ankit1321/bipolar
+    
+### Pull docker image to local computer
+
+    $ docker pull ankit1321/bipolar
+    
+Currently this image is working on some system if dockerimage detects camera from system.  
+When camera is not detected it is showing error of "no available video device".  
+
+## I am currently working on it. Fully working docker will be Updated soon.
+## Demo video will be updated soon.
