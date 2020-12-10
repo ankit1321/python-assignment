@@ -34,4 +34,3 @@ Currently this image is working on some system if dockerimage detects camera fro
 When camera is not detected it is showing error of "no available video device".  
 
 ## I am currently working on it. Fully working docker will be Updated soon.
-## Demo video will be updated soon.
